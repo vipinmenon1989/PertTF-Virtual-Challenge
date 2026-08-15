@@ -1,0 +1,38 @@
+{
+  "n_obs": 111581,
+  "n_vars": 36601,
+  "n_top_genes": 5000,
+  "hvg_flavor": "seurat_v3",
+  "hvg_batch_key": "orig.ident",
+  "pca_n_comps": 50,
+  "pca_variance_explained_ratio_total": 0.430915,
+  "pca_variance_ratio_top10": [
+    0.127119,
+    0.0856,
+    0.035077,
+    0.026369,
+    0.016975,
+    0.015345,
+    0.00923,
+    0.008661,
+    0.008466,
+    0.007441
+  ],
+  "neighbors_n_neighbors": 15,
+  "neighbors_n_pcs": 50,
+  "umap_shape": [
+    111581,
+    2
+  ],
+  "umap_has_nan": false,
+  "umap_scanpy_min": [
+    -4.301,
+    -10.6272
+  ],
+  "umap_scanpy_max": [
+    19.823,
+    20.5938
+  ],
+  "existing_umap_preserved": true,
+  "random_state": 42
+}

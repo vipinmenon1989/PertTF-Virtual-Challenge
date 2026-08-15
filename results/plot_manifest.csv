@@ -1,0 +1,11 @@
+plot_file,pdf_file,metadata_column,plot_type,n_cells,n_categories,n_missing
+umap_scanpy_seurat_clusters.png,umap_scanpy_seurat_clusters.pdf,seurat_clusters,Scanpy_UMAP_Scatter,111581,22,0
+umap_scanpy_RNA_snn_res_0_5.png,umap_scanpy_RNA_snn_res_0_5.pdf,RNA_snn_res.0.5,Scanpy_UMAP_Scatter,111581,22,0
+umap_scanpy_integrated_snn_res_0_5.png,umap_scanpy_integrated_snn_res_0_5.pdf,integrated_snn_res.0.5,Scanpy_UMAP_Scatter,111581,22,0
+umap_scanpy_celltype_2.png,umap_scanpy_celltype_2.pdf,celltype_2,Scanpy_UMAP_Scatter,111581,15,0
+umap_scanpy_genotype.png,umap_scanpy_genotype.pdf,genotype,Scanpy_UMAP_Scatter,111581,37,0
+umap_scanpy_sub_cluster.png,umap_scanpy_sub_cluster.pdf,sub.cluster,Scanpy_UMAP_Scatter,111581,20,0
+umap_scanpy_celltype_individual.png,umap_scanpy_celltype_individual.pdf,celltype_individual,Scanpy_UMAP_Scatter,111581,18,0
+umap_scanpy_celltype_2_old.png,umap_scanpy_celltype_2_old.pdf,celltype_2_old,Scanpy_UMAP_Scatter,111581,14,0
+umap_scanpy_orig_ident.png,umap_scanpy_orig_ident.pdf,orig.ident,Scanpy_UMAP_Scatter,111581,13,0
+umap_scanpy_Phase.png,umap_scanpy_Phase.pdf,Phase,Scanpy_UMAP_Scatter,111581,3,0

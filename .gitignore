@@ -1,11 +1,25 @@
-# Ignore everything
-*
+# Ignore large data files and h5ad files
+*.h5ad
+*.h5
+*.rds
+*.tar.gz
+*.loom
+*.zarr
+*.pkl
+*.npy
+*.npz
+*.parquet
 
-# Allow directories
-!*/
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
 
-# Allow Python files
-!*.py
+# Environments and OS
+.venv/
+env/
+.vscode/
+.idea/
+.DS_Store
 
-# Keep the Git ignore file
-!.gitignore
